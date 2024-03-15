@@ -1,0 +1,39 @@
+{
+  "snacks": [
+    {
+      "id": "0",
+      "name": "Biskuat",
+      "image": "biskuat.webp",
+      "price": 6000,
+      "stock": 6
+    },
+    {
+      "id": "1",
+      "name": "Chips",
+      "stock": 9,
+      "price": 8000,
+      "image": "lays.webp"
+    },
+    {
+      "id": "2",
+      "name": "Oreo",
+      "stock": 49,
+      "price": 10000,
+      "image": "oreo.webp"
+    },
+    {
+      "id": "3",
+      "name": "Tango",
+      "stock": 29,
+      "price": 12000,
+      "image": "tango.webp"
+    },
+    {
+      "id": "4",
+      "name": "Cokelat",
+      "stock": 95,
+      "price": 15000,
+      "image": "silverqueen.webp"
+    }
+  ]
+}
